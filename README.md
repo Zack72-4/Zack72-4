@@ -6,13 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 14 December 2025 - To: 27 January 2026
+From: 14 December 2025 - To: 28 January 2026
 
-Total Time: 4 hrs 7 mins
+Total Time: 5 hrs 17 mins
 
-Go     3 hrs 11 mins   >>>>>>>>>>>>>>>>>>>------   77.31 %
-C++    52 mins         >>>>>--------------------   21.09 %
-JSON   3 mins          -------------------------   01.61 %
+Go       3 hrs 11 mins   >>>>>>>>>>>>>>>----------   60.25 %
+Python   1 hr 5 mins     >>>>>--------------------   20.55 %
+C++      57 mins         >>>>---------------------   17.95 %
+JSON     3 mins          -------------------------   01.25 %
 ```
 
 <!--END_SECTION:waka-->
