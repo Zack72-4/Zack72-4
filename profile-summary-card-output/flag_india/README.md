@@ -45,6 +45,16 @@
 
 ---
 
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Zack72-4/Zack72-4/main/profile-summary-card-output/flag_india/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
