@@ -28,6 +28,6 @@ Bash         0 secs                -------------------------   00.01 %
 
 <br/>
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=python)
+![Skills](https://skills-icons.vercel.app/api/icons?i=python,javascript)
 
 <br/>
