@@ -33,6 +33,6 @@ TSConfig     0 secs                -------------------------   00.00 %
 
 <br/>
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=python,javascript,go,html,c++,sql,TypeScript)
+![Skills](https://skills-icons.vercel.app/api/icons?i=python,javascript,go,html,c++,sql,typeScript)
 
 <br/>
